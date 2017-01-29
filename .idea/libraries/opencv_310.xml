@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="opencv-310">
+    <CLASSES>
+      <root url="jar://C:/opencv-3.1.0/opencv/build/java/opencv-310.jar!/" />
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/Doc/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/opencv-3.1.0/opencv/build/java/opencv-310.jar!/" />
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/Demo/embed" />
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/Demo/jreload/src" />
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/src" />
+      <root url="jar://C:/opencv-3.1.0/jython_installer-2.5.2.jar!/tests/java" />
+    </SOURCES>
+  </library>
+</component>
